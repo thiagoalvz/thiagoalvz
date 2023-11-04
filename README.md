@@ -1,0 +1,3 @@
+- 👋 Olá, me chamo Thiago Alves Mattos
+- 👀 Sempre buscando aprender
+- 🌱 Estou iniciando meus estudos em Lógica de Programação e Algoritmos em C++
